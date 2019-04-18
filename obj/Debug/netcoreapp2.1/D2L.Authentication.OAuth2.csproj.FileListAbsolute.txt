@@ -1,0 +1,9 @@
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\bin\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.deps.json
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\bin\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.dll
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\obj\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.csprojAssemblyReference.cache
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\obj\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.csproj.CoreCompileInputs.cache
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\obj\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.AssemblyInfoInputs.cache
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\obj\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.AssemblyInfo.cs
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\bin\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.pdb
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\obj\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.dll
+C:\vsprojects\D2L.Authentication.OAuth2\D2L.Authentication.OAuth2\obj\Debug\netcoreapp2.1\D2L.Authentication.OAuth2.pdb
